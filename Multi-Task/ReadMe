@@ -1,1 +1,4 @@
-baseline:BiLstmCRF    msr    adam
+BiLSTM-CRF
+Multi-Task
+Share BiLSTM
+private CRF
